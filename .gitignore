@@ -1,0 +1,17 @@
+
+# Raw dataset
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment files
+.env
+
+# Editor files
+.vscode/
